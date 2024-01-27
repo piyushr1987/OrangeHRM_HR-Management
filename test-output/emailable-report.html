@@ -9,13 +9,23 @@
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
 <tr><th colspan="8">Suite</th></tr>
-<tr><td><a href="#t0">Test</a></td><td class="num">4</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">9,826</td><td></td><td></td></tr>
+<tr><td><a href="#t0">Test</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num attn">2</td><td class="num">27,059</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="4">com.orangehrm.tests.LoginTest</td><td><a href="#m0">testLogin</a></td><td rowspan="1">1706273196299</td><td rowspan="1">1392</td></tr><tr class="passedeven"><td><a href="#m1">testLoginPage</a></td><td rowspan="1">1706273197694</td><td rowspan="1">9</td></tr><tr class="passedeven"><td><a href="#m2">testPassword</a></td><td rowspan="1">1706273196161</td><td rowspan="1">138</td></tr><tr class="passedeven"><td><a href="#m3">testUsername</a></td><td rowspan="1">1706273195659</td><td rowspan="1">481</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="2">com.orangehrm.tests.LoginTest_DDT</td><td><a href="#m0">testLoginFunctionality</a></td><td rowspan="2">1706355687606</td><td rowspan="2">2128</td></tr><tr class="failedeven"><td><a href="#m1">testLoginFunctionality</a></td></tr><tr><th colspan="4">Test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.orangehrm.tests.LoginTest_DDT</td><td><a href="#m2">testLoginFunctionality</a></td><td rowspan="1">1706355696108</td><td rowspan="1">2250</td></tr></tbody>
 </table>
-<h2>Test</h2><h3 id="m0">com.orangehrm.tests.LoginTest#testLogin</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">com.orangehrm.tests.LoginTest#testLoginPage</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m2">com.orangehrm.tests.LoginTest#testPassword</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m3">com.orangehrm.tests.LoginTest#testUsername</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>Test</h2><h3 id="m0">com.orangehrm.tests.LoginTest_DDT#testLoginFunctionality</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>piyu12</td><td>2345</td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">java.lang.AssertionError: expected [true] but found [false]
+	at com.orangehrm.tests.LoginTest_DDT.testLoginFunctionality(LoginTest_DDT.java:47)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 31 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">com.orangehrm.tests.LoginTest_DDT#testLoginFunctionality</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>null</td><td>null</td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">java.lang.IllegalArgumentException: Keys to send should be a not null CharSequence
+	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:97)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at jdk.proxy2/jdk.proxy2.$Proxy18.sendKeys(Unknown Source)
+	at com.orangehrm.utilities.ElementUtils.typeTextIntoElement(ElementUtils.java:35)
+	at com.orangehrm.pages.LoginPage.enterUsername(LoginPage.java:30)
+	at com.orangehrm.tests.LoginTest_DDT.testLoginFunctionality(LoginTest_DDT.java:34)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 31 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">com.orangehrm.tests.LoginTest_DDT#testLoginFunctionality</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>Admin</td><td>admin123</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

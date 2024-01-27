@@ -6,7 +6,8 @@
 	</listeners>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.orangehrm.tests.LoginTest"/>
+     <!-- <class name="com.orangehrm.tests.LoginTest"/>-->
+      <class name="com.orangehrm.tests.LoginTest_DDT"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
