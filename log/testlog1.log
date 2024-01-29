@@ -23,3 +23,20 @@
 2024-01-27 17:11:36,976 [main] INFO orangehrm - click on login
 2024-01-27 17:11:38,358 [main] INFO orangehrm - sucessfully navigate to the dashboard
 2024-01-27 17:11:44,545 [main] INFO orangehrm - enter the username
+2024-01-27 17:20:22,659 [main] INFO orangehrm - enter the username
+2024-01-27 17:20:37,639 [main] INFO orangehrm - enter the password
+2024-01-27 17:20:46,791 [main] INFO orangehrm - click on login
+2024-01-27 17:21:46,222 [main] INFO orangehrm - enter the username
+2024-01-27 17:21:53,403 [main] INFO orangehrm - enter the password
+2024-01-27 17:21:59,954 [main] INFO orangehrm - click on login
+2024-01-27 17:22:08,988 [main] INFO orangehrm - sucessfully navigate to the dashboard
+2024-01-27 17:23:31,817 [main] INFO orangehrm - enter the username
+2024-01-29 20:11:58,705 [main] INFO orangehrm - enter the username
+2024-01-29 20:11:59,504 [main] INFO orangehrm - enter the password
+2024-01-29 20:11:59,624 [main] INFO orangehrm - click on login
+2024-01-29 20:12:00,909 [main] INFO orangehrm - sucessfully navigate to the dashboard
+2024-01-29 20:12:00,913 [main] INFO orangehrm - click on admin
+2024-01-29 20:12:06,504 [main] INFO orangehrm - sucessfully navigate to the system user page
+2024-01-29 20:12:06,512 [main] INFO orangehrm - enter the username on system page
+2024-01-29 20:12:07,425 [main] INFO orangehrm - click on search
+2024-01-29 20:12:08,470 [main] INFO orangehrm - search username is sucessfully displayed
