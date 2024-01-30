@@ -4,10 +4,13 @@
 	<listeners>
 		<listener class-name="com.orangehrm.utilities.Reporting" />
 	</listeners>
-  <test thread-count="5" name="Test">
-    <classes>
-     <!-- <class name="com.orangehrm.tests.LoginTest"/>-->
-      <class name="com.orangehrm.tests.LoginTest_DDT"/>
-    </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
+	<test thread-count="5" name="Test">
+		<classes>
+			<!-- <class name="com.orangehrm.tests.LoginTest"/>-->
+			<!-- <class name="com.orangehrm.tests.LoginTest_DDT"/>-->
+			<class name="com.orangehrm.tests.AddEmployeeTest" />
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->

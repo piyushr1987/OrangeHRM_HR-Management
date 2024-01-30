@@ -40,3 +40,126 @@
 2024-01-29 20:12:06,512 [main] INFO orangehrm - enter the username on system page
 2024-01-29 20:12:07,425 [main] INFO orangehrm - click on search
 2024-01-29 20:12:08,470 [main] INFO orangehrm - search username is sucessfully displayed
+2024-01-30 18:16:50,083 [main] INFO orangehrm - enter the username
+2024-01-30 18:16:50,764 [main] INFO orangehrm - enter the password
+2024-01-30 18:16:50,890 [main] INFO orangehrm - click on login
+2024-01-30 18:16:52,296 [main] INFO orangehrm - sucessfully navigate to the dashboard
+2024-01-30 18:16:52,307 [main] INFO orangehrm - click on PIM
+2024-01-30 18:16:54,098 [main] INFO orangehrm - sucessfully navigate to PIM page
+2024-01-30 18:16:54,102 [main] INFO orangehrm - click on add employee
+2024-01-30 18:16:55,207 [main] INFO orangehrm - sucessfully navigate to the Add Employee Page
+2024-01-30 18:16:55,212 [main] INFO orangehrm - enter employee first name
+2024-01-30 18:16:55,798 [main] INFO orangehrm - enter employee middle name
+2024-01-30 18:16:55,890 [main] INFO orangehrm - enter employee last name
+2024-01-30 18:16:55,984 [main] INFO orangehrm - enter employee ID
+2024-01-30 18:16:56,096 [main] INFO orangehrm - click on save
+2024-01-30 18:17:30,675 [main] INFO orangehrm - enter the username
+2024-01-30 18:17:34,331 [main] INFO orangehrm - enter the password
+2024-01-30 18:17:34,454 [main] INFO orangehrm - click on login
+2024-01-30 18:17:35,792 [main] INFO orangehrm - sucessfully navigate to the dashboard
+2024-01-30 18:17:35,797 [main] INFO orangehrm - click on PIM
+2024-01-30 18:17:37,523 [main] INFO orangehrm - sucessfully navigate to PIM page
+2024-01-30 18:17:37,526 [main] INFO orangehrm - click on add employee
+2024-01-30 18:17:38,690 [main] INFO orangehrm - sucessfully navigate to the Add Employee Page
+2024-01-30 18:17:38,692 [main] INFO orangehrm - enter employee first name
+2024-01-30 18:17:39,159 [main] INFO orangehrm - enter employee middle name
+2024-01-30 18:17:39,249 [main] INFO orangehrm - enter employee last name
+2024-01-30 18:17:39,341 [main] INFO orangehrm - enter employee ID
+2024-01-30 18:17:39,453 [main] INFO orangehrm - click on save
+2024-01-30 18:18:46,022 [main] INFO orangehrm - enter the username
+2024-01-30 18:18:46,743 [main] INFO orangehrm - enter the password
+2024-01-30 18:18:46,850 [main] INFO orangehrm - click on login
+2024-01-30 18:18:48,337 [main] INFO orangehrm - sucessfully navigate to the dashboard
+2024-01-30 18:18:48,340 [main] INFO orangehrm - click on PIM
+2024-01-30 18:18:50,059 [main] INFO orangehrm - sucessfully navigate to PIM page
+2024-01-30 18:18:50,064 [main] INFO orangehrm - click on add employee
+2024-01-30 18:18:51,339 [main] INFO orangehrm - sucessfully navigate to the Add Employee Page
+2024-01-30 18:18:51,342 [main] INFO orangehrm - enter employee first name
+2024-01-30 18:18:51,909 [main] INFO orangehrm - enter employee middle name
+2024-01-30 18:18:52,004 [main] INFO orangehrm - enter employee last name
+2024-01-30 18:18:52,107 [main] INFO orangehrm - enter employee ID
+2024-01-30 18:18:52,215 [main] INFO orangehrm - click on save
+2024-01-30 18:20:03,140 [main] INFO orangehrm - enter the username
+2024-01-30 18:20:04,630 [main] INFO orangehrm - enter the password
+2024-01-30 18:20:04,770 [main] INFO orangehrm - click on login
+2024-01-30 18:20:06,073 [main] INFO orangehrm - sucessfully navigate to the dashboard
+2024-01-30 18:20:06,085 [main] INFO orangehrm - click on PIM
+2024-01-30 18:20:07,823 [main] INFO orangehrm - sucessfully navigate to PIM page
+2024-01-30 18:20:07,827 [main] INFO orangehrm - click on add employee
+2024-01-30 18:20:14,598 [main] INFO orangehrm - sucessfully navigate to the Add Employee Page
+2024-01-30 18:20:14,608 [main] INFO orangehrm - enter employee first name
+2024-01-30 18:20:14,719 [main] INFO orangehrm - enter employee middle name
+2024-01-30 18:20:14,811 [main] INFO orangehrm - enter employee last name
+2024-01-30 18:20:14,897 [main] INFO orangehrm - enter employee ID
+2024-01-30 18:20:15,010 [main] INFO orangehrm - click on save
+2024-01-30 18:21:12,378 [main] INFO orangehrm - enter the username
+2024-01-30 18:21:13,115 [main] INFO orangehrm - enter the password
+2024-01-30 18:21:13,240 [main] INFO orangehrm - click on login
+2024-01-30 18:21:14,486 [main] INFO orangehrm - sucessfully navigate to the dashboard
+2024-01-30 18:21:14,496 [main] INFO orangehrm - click on PIM
+2024-01-30 18:21:16,285 [main] INFO orangehrm - sucessfully navigate to PIM page
+2024-01-30 18:21:16,293 [main] INFO orangehrm - click on add employee
+2024-01-30 18:21:22,523 [main] INFO orangehrm - sucessfully navigate to the Add Employee Page
+2024-01-30 18:21:22,529 [main] INFO orangehrm - enter employee first name
+2024-01-30 18:21:22,641 [main] INFO orangehrm - enter employee middle name
+2024-01-30 18:21:22,726 [main] INFO orangehrm - enter employee last name
+2024-01-30 18:21:22,829 [main] INFO orangehrm - enter employee ID
+2024-01-30 18:21:22,951 [main] INFO orangehrm - click on save
+2024-01-30 18:21:28,037 [main] INFO orangehrm - sucessfully navigate to the Employee Personal Details Page
+2024-01-30 18:22:17,146 [main] INFO orangehrm - enter the username
+2024-01-30 18:22:17,838 [main] INFO orangehrm - enter the password
+2024-01-30 18:22:17,954 [main] INFO orangehrm - click on login
+2024-01-30 18:22:19,209 [main] INFO orangehrm - sucessfully navigate to the dashboard
+2024-01-30 18:22:19,213 [main] INFO orangehrm - click on PIM
+2024-01-30 18:22:21,063 [main] INFO orangehrm - sucessfully navigate to PIM page
+2024-01-30 18:22:21,071 [main] INFO orangehrm - click on add employee
+2024-01-30 18:22:27,227 [main] INFO orangehrm - sucessfully navigate to the Add Employee Page
+2024-01-30 18:22:27,229 [main] INFO orangehrm - enter employee first name
+2024-01-30 18:22:27,381 [main] INFO orangehrm - enter employee middle name
+2024-01-30 18:22:27,476 [main] INFO orangehrm - enter employee last name
+2024-01-30 18:22:27,571 [main] INFO orangehrm - enter employee ID
+2024-01-30 18:22:27,697 [main] INFO orangehrm - click on save
+2024-01-30 18:22:32,809 [main] INFO orangehrm - sucessfully navigate to the Employee Personal Details Page
+2024-01-30 18:23:48,069 [main] INFO orangehrm - enter the username
+2024-01-30 18:23:48,848 [main] INFO orangehrm - enter the password
+2024-01-30 18:23:48,963 [main] INFO orangehrm - click on login
+2024-01-30 18:23:50,325 [main] INFO orangehrm - sucessfully navigate to the dashboard
+2024-01-30 18:23:50,327 [main] INFO orangehrm - click on PIM
+2024-01-30 18:23:51,915 [main] INFO orangehrm - sucessfully navigate to PIM page
+2024-01-30 18:23:51,920 [main] INFO orangehrm - click on add employee
+2024-01-30 18:23:58,322 [main] INFO orangehrm - sucessfully navigate to the Add Employee Page
+2024-01-30 18:23:58,328 [main] INFO orangehrm - enter employee first name
+2024-01-30 18:23:58,454 [main] INFO orangehrm - enter employee middle name
+2024-01-30 18:23:58,542 [main] INFO orangehrm - enter employee last name
+2024-01-30 18:23:58,633 [main] INFO orangehrm - enter employee ID
+2024-01-30 18:24:03,801 [main] INFO orangehrm - click on save
+2024-01-30 18:24:08,969 [main] INFO orangehrm - sucessfully navigate to the Employee Personal Details Page
+2024-01-30 18:24:32,456 [main] INFO orangehrm - enter the username
+2024-01-30 18:24:33,278 [main] INFO orangehrm - enter the password
+2024-01-30 18:24:33,392 [main] INFO orangehrm - click on login
+2024-01-30 18:24:34,968 [main] INFO orangehrm - sucessfully navigate to the dashboard
+2024-01-30 18:24:34,973 [main] INFO orangehrm - click on PIM
+2024-01-30 18:24:36,537 [main] INFO orangehrm - sucessfully navigate to PIM page
+2024-01-30 18:24:36,541 [main] INFO orangehrm - click on add employee
+2024-01-30 18:24:42,926 [main] INFO orangehrm - sucessfully navigate to the Add Employee Page
+2024-01-30 18:24:42,926 [main] INFO orangehrm - enter employee first name
+2024-01-30 18:24:43,046 [main] INFO orangehrm - enter employee middle name
+2024-01-30 18:24:43,134 [main] INFO orangehrm - enter employee last name
+2024-01-30 18:24:43,215 [main] INFO orangehrm - enter employee ID
+2024-01-30 18:24:48,393 [main] INFO orangehrm - click on save
+2024-01-30 18:24:53,479 [main] INFO orangehrm - sucessfully navigate to the Employee Personal Details Page
+2024-01-30 18:25:51,703 [main] INFO orangehrm - enter the username
+2024-01-30 18:25:52,573 [main] INFO orangehrm - enter the password
+2024-01-30 18:25:52,703 [main] INFO orangehrm - click on login
+2024-01-30 18:25:54,002 [main] INFO orangehrm - sucessfully navigate to the dashboard
+2024-01-30 18:25:54,006 [main] INFO orangehrm - click on PIM
+2024-01-30 18:25:55,750 [main] INFO orangehrm - sucessfully navigate to PIM page
+2024-01-30 18:25:55,753 [main] INFO orangehrm - click on add employee
+2024-01-30 18:26:02,226 [main] INFO orangehrm - sucessfully navigate to the Add Employee Page
+2024-01-30 18:26:02,231 [main] INFO orangehrm - enter employee first name
+2024-01-30 18:26:02,371 [main] INFO orangehrm - enter employee middle name
+2024-01-30 18:26:02,465 [main] INFO orangehrm - enter employee last name
+2024-01-30 18:26:02,549 [main] INFO orangehrm - enter employee ID
+2024-01-30 18:26:07,760 [main] INFO orangehrm - click on save
+2024-01-30 18:26:17,860 [main] INFO orangehrm - sucessfully navigate to the Employee Personal Details Page
+2024-01-30 18:26:17,906 [main] INFO orangehrm - actual and expected employee name is matched
