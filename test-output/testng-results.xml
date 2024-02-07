@@ -1,81 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+<testng-results ignored="0" total="23" passed="23" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-30T18:25:44 IST" name="Suite" finished-at="2024-01-30T18:26:18 IST" duration-ms="33492">
+  <suite started-at="2024-02-07T18:25:07 IST" name="Default suite" finished-at="2024-02-07T18:25:41 IST" duration-ms="33984">
     <groups>
     </groups>
-    <test started-at="2024-01-30T18:25:44 IST" name="Test" finished-at="2024-01-30T18:26:18 IST" duration-ms="33492">
-      <class name="com.orangehrm.tests.AddEmployeeTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.orangehrm.tests.AddEmployeeTest@6c284af]" started-at="2024-01-30T18:25:44 IST" name="setUp" finished-at="2024-01-30T18:25:51 IST" duration-ms="6897" status="PASS">
+    <test started-at="2024-02-07T18:25:07 IST" name="Default test" finished-at="2024-02-07T18:25:41 IST" duration-ms="33984">
+      <class name="com.orangehrm.tests.TimeTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:07 IST" name="setUp" finished-at="2024-02-07T18:25:25 IST" duration-ms="18591" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testUsername()[pri:1, instance:com.orangehrm.tests.AddEmployeeTest@6c284af]" started-at="2024-01-30T18:25:51 IST" name="testUsername" finished-at="2024-01-30T18:25:52 IST" duration-ms="863" status="PASS">
+        <test-method signature="testUsername()[pri:1, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:25 IST" name="testUsername" finished-at="2024-02-07T18:25:26 IST" duration-ms="738" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUsername -->
-        <test-method signature="testPassword()[pri:2, instance:com.orangehrm.tests.AddEmployeeTest@6c284af]" started-at="2024-01-30T18:25:52 IST" name="testPassword" finished-at="2024-01-30T18:25:52 IST" duration-ms="128" status="PASS">
+        <test-method signature="testPassword()[pri:2, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:26 IST" name="testPassword" finished-at="2024-02-07T18:25:26 IST" duration-ms="137" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPassword -->
-        <test-method signature="testLogin()[pri:3, instance:com.orangehrm.tests.AddEmployeeTest@6c284af]" started-at="2024-01-30T18:25:52 IST" name="testLogin" finished-at="2024-01-30T18:25:52 IST" duration-ms="78" status="PASS">
+        <test-method signature="testLogin()[pri:3, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:26 IST" name="testLogin" finished-at="2024-02-07T18:25:26 IST" duration-ms="88" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin -->
-        <test-method signature="testLoginPage()[pri:4, instance:com.orangehrm.tests.AddEmployeeTest@6c284af]" started-at="2024-01-30T18:25:52 IST" name="testLoginPage" finished-at="2024-01-30T18:25:54 IST" duration-ms="1219" status="PASS">
+        <test-method signature="testLoginPage()[pri:4, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:26 IST" name="testLoginPage" finished-at="2024-02-07T18:25:28 IST" duration-ms="1357" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginPage -->
-        <test-method signature="testPIM()[pri:5, instance:com.orangehrm.tests.AddEmployeeTest@6c284af]" started-at="2024-01-30T18:25:54 IST" name="testPIM" finished-at="2024-01-30T18:25:55 IST" duration-ms="1733" status="PASS">
+        <test-method signature="testTime()[pri:5, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:28 IST" name="testTime" finished-at="2024-02-07T18:25:29 IST" duration-ms="1766" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testPIM -->
-        <test-method signature="testPIMPageNavigation()[pri:6, instance:com.orangehrm.tests.AddEmployeeTest@6c284af]" started-at="2024-01-30T18:25:55 IST" name="testPIMPageNavigation" finished-at="2024-01-30T18:25:55 IST" duration-ms="11" status="PASS">
+        </test-method> <!-- testTime -->
+        <test-method signature="testTimePage()[pri:6, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:29 IST" name="testTimePage" finished-at="2024-02-07T18:25:29 IST" duration-ms="17" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testPIMPageNavigation -->
-        <test-method signature="testAddEmployee()[pri:7, instance:com.orangehrm.tests.AddEmployeeTest@6c284af]" started-at="2024-01-30T18:25:55 IST" name="testAddEmployee" finished-at="2024-01-30T18:26:02 IST" duration-ms="6455" status="PASS">
+        </test-method> <!-- testTimePage -->
+        <test-method signature="testTimesheet()[pri:7, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:29 IST" name="testTimesheet" finished-at="2024-02-07T18:25:30 IST" duration-ms="518" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testAddEmployee -->
-        <test-method signature="testAddEmployeePageNavigation()[pri:8, instance:com.orangehrm.tests.AddEmployeeTest@6c284af]" started-at="2024-01-30T18:26:02 IST" name="testAddEmployeePageNavigation" finished-at="2024-01-30T18:26:02 IST" duration-ms="17" status="PASS">
+        </test-method> <!-- testTimesheet -->
+        <test-method signature="testMyTimesheet()[pri:8, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:30 IST" name="testMyTimesheet" finished-at="2024-02-07T18:25:31 IST" duration-ms="1108" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testAddEmployeePageNavigation -->
-        <test-method signature="testFirstName()[pri:9, instance:com.orangehrm.tests.AddEmployeeTest@6c284af]" started-at="2024-01-30T18:26:02 IST" name="testFirstName" finished-at="2024-01-30T18:26:02 IST" duration-ms="140" status="PASS">
+        </test-method> <!-- testMyTimesheet -->
+        <test-method signature="testMyTimeSheetPage()[pri:9, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:31 IST" name="testMyTimeSheetPage" finished-at="2024-02-07T18:25:31 IST" duration-ms="18" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testFirstName -->
-        <test-method signature="testMiddleName()[pri:10, instance:com.orangehrm.tests.AddEmployeeTest@6c284af]" started-at="2024-01-30T18:26:02 IST" name="testMiddleName" finished-at="2024-01-30T18:26:02 IST" duration-ms="94" status="PASS">
+        </test-method> <!-- testMyTimeSheetPage -->
+        <test-method signature="testEdit()[pri:10, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:31 IST" name="testEdit" finished-at="2024-02-07T18:25:33 IST" duration-ms="2252" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testMiddleName -->
-        <test-method signature="testLastName()[pri:11, instance:com.orangehrm.tests.AddEmployeeTest@6c284af]" started-at="2024-01-30T18:26:02 IST" name="testLastName" finished-at="2024-01-30T18:26:02 IST" duration-ms="82" status="PASS">
+        </test-method> <!-- testEdit -->
+        <test-method signature="testEditTimeSheetPage()[pri:11, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:33 IST" name="testEditTimeSheetPage" finished-at="2024-02-07T18:25:33 IST" duration-ms="17" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testLastName -->
-        <test-method signature="testEmployeeId()[pri:12, instance:com.orangehrm.tests.AddEmployeeTest@6c284af]" started-at="2024-01-30T18:26:02 IST" name="testEmployeeId" finished-at="2024-01-30T18:26:07 IST" duration-ms="5207" status="PASS">
+        </test-method> <!-- testEditTimeSheetPage -->
+        <test-method signature="testProjectName()[pri:12, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:33 IST" name="testProjectName" finished-at="2024-02-07T18:25:35 IST" duration-ms="1308" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testEmployeeId -->
-        <test-method signature="testSave()[pri:13, instance:com.orangehrm.tests.AddEmployeeTest@6c284af]" started-at="2024-01-30T18:26:07 IST" name="testSave" finished-at="2024-01-30T18:26:17 IST" duration-ms="10082" status="PASS">
+        </test-method> <!-- testProjectName -->
+        <test-method signature="testProjectNameValue()[pri:13, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:35 IST" name="testProjectNameValue" finished-at="2024-02-07T18:25:38 IST" duration-ms="3400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProjectNameValue -->
+        <test-method signature="testActivity()[pri:14, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:38 IST" name="testActivity" finished-at="2024-02-07T18:25:38 IST" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testActivity -->
+        <test-method signature="testMonday()[pri:15, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:38 IST" name="testMonday" finished-at="2024-02-07T18:25:39 IST" duration-ms="293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMonday -->
+        <test-method signature="testTuesday()[pri:16, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:39 IST" name="testTuesday" finished-at="2024-02-07T18:25:39 IST" duration-ms="375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTuesday -->
+        <test-method signature="testWednesday()[pri:17, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:39 IST" name="testWednesday" finished-at="2024-02-07T18:25:39 IST" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWednesday -->
+        <test-method signature="testThrusday()[pri:18, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:39 IST" name="testThrusday" finished-at="2024-02-07T18:25:39 IST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testThrusday -->
+        <test-method signature="testFriday()[pri:19, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:39 IST" name="testFriday" finished-at="2024-02-07T18:25:40 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFriday -->
+        <test-method signature="testSaturday()[pri:20, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:40 IST" name="testSaturday" finished-at="2024-02-07T18:25:40 IST" duration-ms="234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSaturday -->
+        <test-method signature="testSunday()[pri:21, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:40 IST" name="testSunday" finished-at="2024-02-07T18:25:40 IST" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSunday -->
+        <test-method signature="testSave()[pri:22, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:40 IST" name="testSave" finished-at="2024-02-07T18:25:40 IST" duration-ms="101" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSave -->
-        <test-method signature="testEmployeePersonalDetailsPageNavigation()[pri:14, instance:com.orangehrm.tests.AddEmployeeTest@6c284af]" started-at="2024-01-30T18:26:17 IST" name="testEmployeePersonalDetailsPageNavigation" finished-at="2024-01-30T18:26:17 IST" duration-ms="16" status="PASS">
+        <test-method signature="testSubmit()[pri:23, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:40 IST" name="testSubmit" finished-at="2024-02-07T18:25:40 IST" duration-ms="139" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testEmployeePersonalDetailsPageNavigation -->
-        <test-method signature="testEmployeeName()[pri:15, instance:com.orangehrm.tests.AddEmployeeTest@6c284af]" started-at="2024-01-30T18:26:17 IST" name="testEmployeeName" finished-at="2024-01-30T18:26:17 IST" duration-ms="42" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testEmployeeName -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangehrm.tests.AddEmployeeTest@6c284af]" started-at="2024-01-30T18:26:17 IST" name="tearDown" finished-at="2024-01-30T18:26:18 IST" duration-ms="188" status="PASS">
+        </test-method> <!-- testSubmit -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:40 IST" name="tearDown" finished-at="2024-02-07T18:25:41 IST" duration-ms="273" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.orangehrm.tests.AddEmployeeTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+      </class> <!-- com.orangehrm.tests.TimeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

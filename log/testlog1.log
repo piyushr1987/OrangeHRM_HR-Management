@@ -163,3 +163,26 @@
 2024-01-30 18:26:07,760 [main] INFO orangehrm - click on save
 2024-01-30 18:26:17,860 [main] INFO orangehrm - sucessfully navigate to the Employee Personal Details Page
 2024-01-30 18:26:17,906 [main] INFO orangehrm - actual and expected employee name is matched
+2024-02-07 18:25:25,873 [main] INFO orangehrm - enter the username
+2024-02-07 18:25:26,604 [main] INFO orangehrm - enter the password
+2024-02-07 18:25:26,743 [main] INFO orangehrm - click on login
+2024-02-07 18:25:28,195 [main] INFO orangehrm - sucessfully navigate to the dashboard
+2024-02-07 18:25:28,195 [main] INFO orangehrm - click on Time
+2024-02-07 18:25:29,985 [main] INFO orangehrm - sucessfully navigate to the time page
+2024-02-07 18:25:29,996 [main] INFO orangehrm - click on timesheet
+2024-02-07 18:25:30,505 [main] INFO orangehrm - click on my timesheet
+2024-02-07 18:25:31,634 [main] INFO orangehrm - sucessfully navigate to the my timesheet page
+2024-02-07 18:25:31,646 [main] INFO orangehrm - click on edit
+2024-02-07 18:25:33,913 [main] INFO orangehrm - sucessfully navigate to the edit timesheet page
+2024-02-07 18:25:33,916 [main] INFO orangehrm - enter project name
+2024-02-07 18:25:35,228 [main] INFO orangehrm - select name project name from drop down
+2024-02-07 18:25:38,626 [main] INFO orangehrm - select the activity
+2024-02-07 18:25:38,844 [main] INFO orangehrm - enter the monday time
+2024-02-07 18:25:39,143 [main] INFO orangehrm - enter the tuesday time
+2024-02-07 18:25:39,520 [main] INFO orangehrm - enter the wednesday time
+2024-02-07 18:25:39,756 [main] INFO orangehrm - enter the thrusday time
+2024-02-07 18:25:39,942 [main] INFO orangehrm - enter the friday time
+2024-02-07 18:25:40,144 [main] INFO orangehrm - enter the saturday time
+2024-02-07 18:25:40,378 [main] INFO orangehrm - enter the sunday time
+2024-02-07 18:25:40,676 [main] INFO orangehrm - click on save
+2024-02-07 18:25:40,782 [main] INFO orangehrm - click on submit
