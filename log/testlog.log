@@ -186,3 +186,25 @@
 2024-02-07 18:25:40,378 - orangehrm -INFO - enter the sunday time
 2024-02-07 18:25:40,676 - orangehrm -INFO - click on save
 2024-02-07 18:25:40,782 - orangehrm -INFO - click on submit
+2024-02-08 18:16:56,628 - orangehrm -INFO - enter the username
+2024-02-08 18:17:24,419 - orangehrm -INFO - enter the password
+2024-02-08 18:17:24,625 - orangehrm -INFO - click on login
+2024-02-08 18:17:24,664 - orangehrm -INFO - click on Leave
+2024-02-08 18:17:24,742 - orangehrm -INFO - click on apply leave
+2024-02-08 18:17:24,774 - orangehrm -INFO - enter the leave type
+2024-02-08 18:17:24,795 - orangehrm -INFO - enter the from date
+2024-02-08 18:17:24,853 - orangehrm -INFO - enter the to date
+2024-02-08 18:17:24,886 - orangehrm -INFO - click on apply
+2024-02-08 18:19:14,060 - orangehrm -INFO - enter the username
+2024-02-08 18:20:27,923 - orangehrm -INFO - enter the username
+2024-02-08 18:20:28,813 - orangehrm -INFO - enter the password
+2024-02-08 18:20:28,938 - orangehrm -INFO - click on login
+2024-02-08 18:20:31,451 - orangehrm -INFO - sucessfully navigate to the dashboard
+2024-02-08 18:20:31,461 - orangehrm -INFO - click on Leave
+2024-02-08 18:20:33,712 - orangehrm -INFO - sucessfully navigate to the leave page
+2024-02-08 18:20:33,719 - orangehrm -INFO - click on apply leave
+2024-02-08 18:20:35,001 - orangehrm -INFO - sucessfully navigate to the apply leave page
+2024-02-08 18:20:35,003 - orangehrm -INFO - enter the leave type
+2024-02-08 18:20:35,940 - orangehrm -INFO - enter the from date
+2024-02-08 18:21:36,796 - orangehrm -INFO - enter the to date
+2024-02-08 18:22:37,591 - orangehrm -INFO - click on apply

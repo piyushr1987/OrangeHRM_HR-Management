@@ -1,113 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="23" passed="23" failed="0" skipped="0">
+<testng-results ignored="0" total="12" passed="11" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-07T18:25:07 IST" name="Default suite" finished-at="2024-02-07T18:25:41 IST" duration-ms="33984">
+  <suite started-at="2024-02-08T18:19:49 IST" name="Default suite" finished-at="2024-02-08T18:23:32 IST" duration-ms="223538">
     <groups>
     </groups>
-    <test started-at="2024-02-07T18:25:07 IST" name="Default test" finished-at="2024-02-07T18:25:41 IST" duration-ms="33984">
-      <class name="com.orangehrm.tests.TimeTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:07 IST" name="setUp" finished-at="2024-02-07T18:25:25 IST" duration-ms="18591" status="PASS">
+    <test started-at="2024-02-08T18:19:49 IST" name="Default test" finished-at="2024-02-08T18:23:32 IST" duration-ms="223538">
+      <class name="com.orangehrm.tests.LeaveTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.orangehrm.tests.LeaveTest@2767e23c]" started-at="2024-02-08T18:19:49 IST" name="setUp" finished-at="2024-02-08T18:20:27 IST" duration-ms="38672" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testUsername()[pri:1, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:25 IST" name="testUsername" finished-at="2024-02-07T18:25:26 IST" duration-ms="738" status="PASS">
+        <test-method signature="testUsername()[pri:1, instance:com.orangehrm.tests.LeaveTest@2767e23c]" started-at="2024-02-08T18:20:27 IST" name="testUsername" finished-at="2024-02-08T18:20:28 IST" duration-ms="888" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testUsername -->
-        <test-method signature="testPassword()[pri:2, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:26 IST" name="testPassword" finished-at="2024-02-07T18:25:26 IST" duration-ms="137" status="PASS">
+        <test-method signature="testPassword()[pri:2, instance:com.orangehrm.tests.LeaveTest@2767e23c]" started-at="2024-02-08T18:20:28 IST" name="testPassword" finished-at="2024-02-08T18:20:28 IST" duration-ms="127" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPassword -->
-        <test-method signature="testLogin()[pri:3, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:26 IST" name="testLogin" finished-at="2024-02-07T18:25:26 IST" duration-ms="88" status="PASS">
+        <test-method signature="testLogin()[pri:3, instance:com.orangehrm.tests.LeaveTest@2767e23c]" started-at="2024-02-08T18:20:28 IST" name="testLogin" finished-at="2024-02-08T18:20:29 IST" duration-ms="86" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin -->
-        <test-method signature="testLoginPage()[pri:4, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:26 IST" name="testLoginPage" finished-at="2024-02-07T18:25:28 IST" duration-ms="1357" status="PASS">
+        <test-method signature="testLoginPage()[pri:4, instance:com.orangehrm.tests.LeaveTest@2767e23c]" started-at="2024-02-08T18:20:29 IST" name="testLoginPage" finished-at="2024-02-08T18:20:31 IST" duration-ms="2423" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLoginPage -->
-        <test-method signature="testTime()[pri:5, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:28 IST" name="testTime" finished-at="2024-02-07T18:25:29 IST" duration-ms="1766" status="PASS">
+        <test-method signature="testLeave()[pri:5, instance:com.orangehrm.tests.LeaveTest@2767e23c]" started-at="2024-02-08T18:20:31 IST" name="testLeave" finished-at="2024-02-08T18:20:33 IST" duration-ms="2236" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTime -->
-        <test-method signature="testTimePage()[pri:6, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:29 IST" name="testTimePage" finished-at="2024-02-07T18:25:29 IST" duration-ms="17" status="PASS">
+        </test-method> <!-- testLeave -->
+        <test-method signature="testLeavePage()[pri:6, instance:com.orangehrm.tests.LeaveTest@2767e23c]" started-at="2024-02-08T18:20:33 IST" name="testLeavePage" finished-at="2024-02-08T18:20:33 IST" duration-ms="18" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTimePage -->
-        <test-method signature="testTimesheet()[pri:7, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:29 IST" name="testTimesheet" finished-at="2024-02-07T18:25:30 IST" duration-ms="518" status="PASS">
+        </test-method> <!-- testLeavePage -->
+        <test-method signature="testApplyLeave()[pri:7, instance:com.orangehrm.tests.LeaveTest@2767e23c]" started-at="2024-02-08T18:20:33 IST" name="testApplyLeave" finished-at="2024-02-08T18:20:34 IST" duration-ms="1258" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testTimesheet -->
-        <test-method signature="testMyTimesheet()[pri:8, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:30 IST" name="testMyTimesheet" finished-at="2024-02-07T18:25:31 IST" duration-ms="1108" status="PASS">
+        </test-method> <!-- testApplyLeave -->
+        <test-method signature="testApplyPage()[pri:8, instance:com.orangehrm.tests.LeaveTest@2767e23c]" started-at="2024-02-08T18:20:34 IST" name="testApplyPage" finished-at="2024-02-08T18:20:35 IST" duration-ms="22" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testMyTimesheet -->
-        <test-method signature="testMyTimeSheetPage()[pri:9, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:31 IST" name="testMyTimeSheetPage" finished-at="2024-02-07T18:25:31 IST" duration-ms="18" status="PASS">
+        </test-method> <!-- testApplyPage -->
+        <test-method signature="testLeaveType()[pri:9, instance:com.orangehrm.tests.LeaveTest@2767e23c]" started-at="2024-02-08T18:20:35 IST" name="testLeaveType" finished-at="2024-02-08T18:20:35 IST" duration-ms="921" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testMyTimeSheetPage -->
-        <test-method signature="testEdit()[pri:10, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:31 IST" name="testEdit" finished-at="2024-02-07T18:25:33 IST" duration-ms="2252" status="PASS">
+        </test-method> <!-- testLeaveType -->
+        <test-method signature="testFromDate()[pri:10, instance:com.orangehrm.tests.LeaveTest@2767e23c]" started-at="2024-02-08T18:20:35 IST" name="testFromDate" finished-at="2024-02-08T18:21:36 IST" duration-ms="60851" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testEdit -->
-        <test-method signature="testEditTimeSheetPage()[pri:11, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:33 IST" name="testEditTimeSheetPage" finished-at="2024-02-07T18:25:33 IST" duration-ms="17" status="PASS">
+        </test-method> <!-- testFromDate -->
+        <test-method signature="testToDate()[pri:11, instance:com.orangehrm.tests.LeaveTest@2767e23c]" started-at="2024-02-08T18:21:36 IST" name="testToDate" finished-at="2024-02-08T18:22:37 IST" duration-ms="60787" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testEditTimeSheetPage -->
-        <test-method signature="testProjectName()[pri:12, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:33 IST" name="testProjectName" finished-at="2024-02-07T18:25:35 IST" duration-ms="1308" status="PASS">
+        </test-method> <!-- testToDate -->
+        <test-method signature="testApply()[pri:12, instance:com.orangehrm.tests.LeaveTest@2767e23c]" started-at="2024-02-08T18:22:37 IST" name="testApply" finished-at="2024-02-08T18:23:32 IST" duration-ms="54879" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchWindowException">
+            <message>
+              <![CDATA[no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=121.0.6167.160)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1052c0d2fba801dc68291e460d34f32a, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.160, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\Users\PIYUSH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62100}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62100/devtoo..., se:cdpVersion: 121.0.6167.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1052c0d2fba801dc68291e460d34f32a]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=121.0.6167.160)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1052c0d2fba801dc68291e460d34f32a, screenshot {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.160, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: C:\Users\PIYUSH~1\AppData\L...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62100}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62100/devtoo..., se:cdpVersion: 121.0.6167.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1052c0d2fba801dc68291e460d34f32a
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:518)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:591)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:595)
+at org.openqa.selenium.remote.RemoteWebDriver.getScreenshotAs(RemoteWebDriver.java:321)
+at com.orangehrm.genericPage.BaseClass.captureScreen(BaseClass.java:60)
+at com.orangehrm.tests.LeaveTest.testApply(LeaveTest.java:159)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:431)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:391)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchWindowException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testProjectName -->
-        <test-method signature="testProjectNameValue()[pri:13, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:35 IST" name="testProjectNameValue" finished-at="2024-02-07T18:25:38 IST" duration-ms="3400" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testProjectNameValue -->
-        <test-method signature="testActivity()[pri:14, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:38 IST" name="testActivity" finished-at="2024-02-07T18:25:38 IST" duration-ms="212" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testActivity -->
-        <test-method signature="testMonday()[pri:15, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:38 IST" name="testMonday" finished-at="2024-02-07T18:25:39 IST" duration-ms="293" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testMonday -->
-        <test-method signature="testTuesday()[pri:16, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:39 IST" name="testTuesday" finished-at="2024-02-07T18:25:39 IST" duration-ms="375" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testTuesday -->
-        <test-method signature="testWednesday()[pri:17, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:39 IST" name="testWednesday" finished-at="2024-02-07T18:25:39 IST" duration-ms="220" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testWednesday -->
-        <test-method signature="testThrusday()[pri:18, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:39 IST" name="testThrusday" finished-at="2024-02-07T18:25:39 IST" duration-ms="184" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testThrusday -->
-        <test-method signature="testFriday()[pri:19, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:39 IST" name="testFriday" finished-at="2024-02-07T18:25:40 IST" duration-ms="202" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testFriday -->
-        <test-method signature="testSaturday()[pri:20, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:40 IST" name="testSaturday" finished-at="2024-02-07T18:25:40 IST" duration-ms="234" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testSaturday -->
-        <test-method signature="testSunday()[pri:21, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:40 IST" name="testSunday" finished-at="2024-02-07T18:25:40 IST" duration-ms="298" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testSunday -->
-        <test-method signature="testSave()[pri:22, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:40 IST" name="testSave" finished-at="2024-02-07T18:25:40 IST" duration-ms="101" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testSave -->
-        <test-method signature="testSubmit()[pri:23, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:40 IST" name="testSubmit" finished-at="2024-02-07T18:25:40 IST" duration-ms="139" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testSubmit -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangehrm.tests.TimeTest@6e9a5ed8]" started-at="2024-02-07T18:25:40 IST" name="tearDown" finished-at="2024-02-07T18:25:41 IST" duration-ms="273" status="PASS">
+        </test-method> <!-- testApply -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.orangehrm.tests.LeaveTest@2767e23c]" started-at="2024-02-08T18:23:32 IST" name="tearDown" finished-at="2024-02-08T18:23:32 IST" duration-ms="253" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.orangehrm.tests.TimeTest -->
+      </class> <!-- com.orangehrm.tests.LeaveTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
