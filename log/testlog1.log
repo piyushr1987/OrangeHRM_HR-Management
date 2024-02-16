@@ -208,3 +208,17 @@
 2024-02-08 18:20:35,940 [main] INFO orangehrm - enter the from date
 2024-02-08 18:21:36,796 [main] INFO orangehrm - enter the to date
 2024-02-08 18:22:37,591 [main] INFO orangehrm - click on apply
+2024-02-16 17:50:48,554 [main] INFO orangehrm - enter the username
+2024-02-16 17:50:52,388 [main] INFO orangehrm - enter the password
+2024-02-16 17:50:52,569 [main] INFO orangehrm - click on login
+2024-02-16 17:50:54,290 [main] INFO orangehrm - sucessfully navigate to the dashboard
+2024-02-16 17:50:54,298 [main] INFO orangehrm - click on my info
+2024-02-16 17:50:56,381 [main] INFO orangehrm - sucessfully navigate to the my info page
+2024-02-16 17:50:56,392 [main] INFO orangehrm - enter the first name
+2024-02-16 17:50:57,374 [main] INFO orangehrm - enter the last name
+2024-02-16 17:50:57,543 [main] INFO orangehrm - enter the date of birth
+2024-02-16 17:50:57,705 [main] INFO orangehrm - click on save
+2024-02-16 17:50:59,059 [main] INFO orangehrm - actual and expected employee name is matched
+2024-02-16 17:50:59,064 [main] INFO orangehrm - click on menu
+2024-02-16 17:50:59,173 [main] INFO orangehrm - click on logout
+2024-02-16 17:51:00,359 [main] INFO orangehrm - actual and expected URL is matched
